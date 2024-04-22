@@ -20,6 +20,7 @@
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/riya-mandal-104648240?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/riya-mandal-104648240?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" height="30" width="40" /></a>
 <a href="https://kaggle.com/https://www.kaggle.com/riyamandal03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/riyamandal03" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/https://www.codechef.com/users/rm1550561" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/rm1550561" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/rm1550561" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/rm1550561" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -30,4 +31,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=riyamandal123&show_icons=true&locale=en" alt="riyamandal123" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=riyamandal123&" alt="riyamandal123" /></p>
-
